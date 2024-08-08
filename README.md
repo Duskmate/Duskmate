@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m an innovative and curious problem solver, passionate about technology and coding. With a strong foundation in both front-end and back-end development, I specialize in creating customized UI designs and improving website navigation. Developed industry-grade projects from scratch ensures that I meet client requirements effectively.
+Hello! I’m Saksham, Solutions Engineer at HackerRank.
 
 
 ## 🌐 Socials:
